@@ -5,7 +5,6 @@ Familiarización de la terminal al navegar entre distintos directorios, determin
 
 ## Comandos ejecutados:
 
-'''bash
 ### 1. Saber la ubicación actual
 pwd
 ### 2. Navegar entre directorios
