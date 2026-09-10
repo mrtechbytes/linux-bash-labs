@@ -21,4 +21,4 @@ cat sistema_septiembre.log
 
 ## Evidencia de salida:
 ![Picture lab](picture.png)
-![Picture_2 lab](pincture2.png)
+![Picture_2 lab](picture2.png)
