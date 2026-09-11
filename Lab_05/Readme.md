@@ -21,4 +21,4 @@ ls -l credentials.txt
 cp -p credentials.txt credentials_backup.txt
 
 ## Evidencia de salida
-![Picture lab] (picture.png)
+![Picture lab](picture.png)
